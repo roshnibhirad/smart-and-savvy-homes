@@ -1,0 +1,123 @@
+body{
+padding:15px;
+margin:15px;
+}
+
+header{
+  height:130px;
+  padding:30px;
+  text-align: center;
+  margin-bottom:0;
+
+}
+
+
+h1{
+  color: rgb(255, 255, 255);
+  font-size:20px;
+}
+
+
+.nav a{
+ padding:15px;
+ margin:0 80px 0 80px;
+ background-color:rgb(240, 240, 240)  ;
+ opacity: 0.5;
+ text-decoration:none;
+ color: #000000;
+ border-radius:5px;
+ width:120px;
+ float:left;
+ font-size:15px;
+ font-weight:bold;
+ 
+}
+ a:hover {
+  background-color:rgb(255, 255, 255) ; 
+}
+
+.active {
+  background-color:#FFFFFF; 
+}
+
+.img2{
+
+height:120px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 70%;
+border:2px solid black;
+margin-top: 25px;
+margin-bottom:20px;
+
+}
+
+.h2{
+font-size:50px;
+}
+
+.text{
+  font-size: 70px;
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  margin-top: auto;
+}
+.left{
+  
+background-color:#81868f;
+float: left;
+width:20%;
+height: auto;
+margin-top:0;
+
+}
+
+.right{
+  background-color:#81868f;
+float: right;
+width:20%;
+height: auto;
+margin-top:0;
+
+}
+.middle{
+padding:2px;
+}
+
+
+table{
+padding:10px 30px 10px 30px;
+width:60%;
+height: 400px;
+
+
+}
+th{
+background-color:#81868f;
+text-align: left;
+color: rgb(255, 255, 255);
+border-radius:5px;
+padding:15px; 
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.team{
+float:left;
+}
+tr{
+background-color:#d5dcdf;
+}
+
+tr:hover {
+background-color: #81868f;
+}
+
+td{
+text-align: left;
+padding:10px;
+font-family: Arial, Helvetica, sans-serif;
+border:2px;
+}
+
